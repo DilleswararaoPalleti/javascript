@@ -11,7 +11,7 @@ I am documenting my progress here as I learn step by step.
 
 - **Day 1:** Introduction to JavaScript, variables, and data types.
 - **Day 2:** Functions and scope.
-- **Day 3:**
+- **Day 3:** let and const
 - **Day 4:**
 - **Day 5:**
 
