@@ -12,7 +12,7 @@ I am documenting my progress here as I learn step by step.
 - **Day 1:** Introduction to JavaScript, variables, and data types.
 - **Day 2:** Functions and scope.
 - **Day 3:** let and const
-- **Day 4:**
+- **Day 4:** block scope and shadowing
 - **Day 5:**
 
 _(I’ll keep updating this section daily as I learn more!)_
