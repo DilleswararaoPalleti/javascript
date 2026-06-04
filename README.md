@@ -13,6 +13,6 @@ I am documenting my progress here as I learn step by step.
 - **Day 2:** Functions and scope.
 - **Day 3:** let and const
 - **Day 4:** block scope and shadowing
-- **Day 5:**
+- **Day 5:** closures
 
 _(I’ll keep updating this section daily as I learn more!)_
